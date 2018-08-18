@@ -1,1 +1,1 @@
-docker build -t webapp_static .
+docker build -t frontend .

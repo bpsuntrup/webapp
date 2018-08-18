@@ -9,4 +9,6 @@ To run it, run
 
     bash run.sh
 
-figure the rest out
+Then go to localhost:8000 to see the app.
+
+See the Dockerfile for how to build it locally... outside docker
